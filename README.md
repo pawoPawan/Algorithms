@@ -1,1 +1,9 @@
 # Algorithms
+
+Easy
+
+
+Medium
+
+
+Hard
